@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/laravel_qa/app/Http/Controllers/QuestionController.php</file>
+            <file>file:/var/www/html/laravel_qa/resources/views/questions/show.blade.php</file>
+            <file>file:/var/www/html/laravel_qa/.env</file>
+            <file>file:/var/www/html/laravel_qa/config/purifier.php</file>
+            <file>file:/var/www/html/laravel_qa/routes/web.php</file>
+            <file>file:/var/www/html/laravel_qa/resources/views/questions/index.blade.php</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/components/TaskPage.vue</file>
+            <file>file:/var/www/html/laravel_qa/app/Http/Controllers/TaskController.php</file>
+            <file>file:/var/www/html/laravel_qa/webpack.mix.js</file>
+            <file>file:/var/www/html/laravel_qa/composer.json</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/mixins/modification.js</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/authorization/autorize.js</file>
+            <file>file:/var/www/html/laravel_qa/config/app.php</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/components/Question.vue</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/components/Answers.vue</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/components/Meditor.vue</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/app.js</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/components/Answer.vue</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/authorization/policies.js</file>
+            <file>file:/var/www/html/laravel_qa/resources/views/layouts/app.blade.php</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/components/Task.vue</file>
+            <file>file:/var/www/html/laravel_qa/resources/assets/js/components/QuestionPage.vue</file>
+            <file>file:/var/www/html/laravel_qa/resources/views/task.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
